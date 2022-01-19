@@ -1,4 +1,7 @@
-# Shelf | Linux ELF binary shell generator for in-memory code execution | written by k0fin | 2022
+# Shelf
+- In-memory Linux execution of RC4 encrypted stageless ELF payloads
+- written by k0fin
+- 2022
 
 ## about
 
