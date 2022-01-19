@@ -16,11 +16,11 @@ Just clone the Github repo and you're good to go!
 
 ## usage
 
-* Terminal 1
+In Terminal 1:
 
     $ sudo msfconsole -r /path/to/shelf/memfd-create.rc
 
-* Terminal 2
+In Terminal 2:
 
     $ python3 /path/to/shelf/shelf.py
 
